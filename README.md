@@ -2,6 +2,8 @@
 
 A minimal Linux terminal-style portfolio theme for WordPress.
 
+
+
 ## Installation
 
 1. Copy the `clibe/` folder to `wp-content/themes/clibe/`
