@@ -2,7 +2,9 @@
 
 A minimal Linux terminal-style portfolio theme for WordPress.
 
+![01](01.jpg)
 
+![02](02.jpg)
 
 ## Installation
 
